@@ -1,6 +1,37 @@
 # Newspaper clipping in March 2023
 2023-03-01~ 2023-03-12<br>
 中時 聯合 自由 剪報
+## 2023-03-03 各報重點新聞一覽
+
+自由 A2 焦點<br>
+[3階段解封 武肺本土疫情邁向終點](https://news.ltn.com.tw/news/life/paper/1569931)
+
+中時 A5 綜合<br>
+[3階段解封 指揮中心可能5月退場](https://www.chinatimes.com/newspapers/20230303000432-260106)
+
+聯合報 A5 生活<br>
+[健保砍阿茲海默藥價 傳藥廠嗆退出台灣](https://udn.com/news/story/123405/7005556)
+
+### 食藥防疫新聞補充 
+
+中時 A5 綜合<br>
+- [疫苗受害救濟得等3年 立委促衛福部加速](https://www.chinatimes.com/newspapers/20230303000437-260106)
+
+自由 A2 焦點<br>
+- [疫苗+1專區上線／長者打次世代疫苗 減少84%住院風險](https://news.ltn.com.tw/news/life/paper/1569945)
+
+自由 A2 焦點<br>
+- [鬆綁規劃 專家：320是理想時間點](https://news.ltn.com.tw/news/life/paper/1569944)
+** 逾百萬人不曾打武肺疫苗
+
+聯合報 A12 社會<br>
+- [加熱菸品名惹議 國健署：只是英文](https://udn.com/news/story/7266/7005705)
+
+自由有半版的「皮蛇」新聞廣編
+** 強調要打疫苗 ** 
+桃竹苗附近有補助的方案有：
+- [竹北市民看過來！接種帶狀皰疹疫苗補助2千 - 新頭條](https://www.thehubnews.net/archives/77578)
+
 ## 2023-03-02 各報重點新聞一覽
 自由 A2 焦點<br>
 [健保調降5475項藥價 缺藥品項不調價](https://news.ltn.com.tw/news/life/paper/1569746)
