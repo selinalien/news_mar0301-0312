@@ -21,7 +21,7 @@
 - [疫苗+1專區上線／長者打次世代疫苗 減少84%住院風險](https://news.ltn.com.tw/news/life/paper/1569945)
 
 自由 A2 焦點<br>
-- [鬆綁規劃 專家：320是理想時間點](https://news.ltn.com.tw/news/life/paper/1569944)
+- [鬆綁規劃 專家：320是理想時間點](https://news.ltn.com.tw/news/life/paper/1569944)<>
 ** 逾百萬人不曾打武肺疫苗
 
 聯合報 A12 社會<br>
