@@ -1,6 +1,36 @@
 # Newspaper clipping in March 2023
 2023-03-01~ 2023-03-12<br>
 中時 聯合 自由 剪報
+## 2023-03-06 各報重點新聞一覽
+
+聯合 A6 生活<br>
+[難捨口罩紅利 民眾仍罩不離身](https://udn.com/news/story/7266/7011117)
+
+中時 A1 要聞<br>
+[校園口罩今解禁 最快1周後輕症免隔離](https://www.chinatimes.com/newspapers/20230306000586-260114)
+
+自由 A9 財經<br>
+[人口「老」問題 不同縣市各有挑戰](https://ec.ltn.com.tw/article/paper/1570456)
+
+### 食藥防疫新聞補充 
+1of2
+
+聯合 A6 生活<br>
+- [長期戴口罩 影響幼兒社交學習](https://udn.com/news/story/7266/7011123)
+- [確診免隔離 3月底有望上路](https://udn.com/news/story/120940/7011124)
+
+聯合 A10 民意<br>
+- [缺藥未必真影響 換藥常有理說不清](https://udn.com/news/story/7339/7011162)
+
+聯合 B2 桃竹苗<br>
+- [大千竹南醫院 22萬人可半小時內就醫](https://udn.com/news/story/7324/7010967)
+
+自由 A9 財經<br>
+- [最大退休潮啟動 378萬人陸續退職場]https://ec.ltn.com.tw/article/paper/1570457
+
+自由 A 16自由廣場<br>
+- [民怨必起 談不宜驟然廢止指示用藥健保給付](https://talk.ltn.com.tw/article/paper/1570527)
+
 ## 2023-03-03 各報重點新聞一覽
 
 自由 A2 焦點<br>
