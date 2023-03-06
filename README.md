@@ -13,7 +13,6 @@
 [人口「老」問題 不同縣市各有挑戰](https://ec.ltn.com.tw/article/paper/1570456)
 
 ### 食藥防疫新聞補充 
-1of2
 
 聯合 A6 生活<br>
 - [長期戴口罩 影響幼兒社交學習](https://udn.com/news/story/7266/7011123)
