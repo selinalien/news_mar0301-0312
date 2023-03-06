@@ -25,7 +25,7 @@
 - [大千竹南醫院 22萬人可半小時內就醫](https://udn.com/news/story/7324/7010967)
 
 自由 A9 財經<br>
-- [最大退休潮啟動 378萬人陸續退職場](https://ec.ltn.com.tw/article/paper/1570457
+- [最大退休潮啟動 378萬人陸續退職場](https://ec.ltn.com.tw/article/paper/1570457)
 
 自由 A 16自由廣場<br>
 - [民怨必起 談不宜驟然廢止指示用藥健保給付](https://talk.ltn.com.tw/article/paper/1570527)
