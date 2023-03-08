@@ -1,6 +1,29 @@
 # Newspaper clipping in March 2023
 2023-03-01~ 2023-03-12<br>
 中時 聯合 自由 剪報
+## 2023-03-08 各報重點新聞一覽
+中時 A7 綜合<br>
+[猴痘入侵北市 首波疫苗接種3000人](https://www.chinatimes.com/newspapers/20230308000467-260106)
+
+自由 A8 財經<br>
+[勞保財務缺口 陳揆：明年編千億撥補](https://ec.ltn.com.tw/article/paper/1570835)
+
+聯合 A8 生活<br>
+[本土猴痘再添1例 社區潛伏個案多](https://udn.com/news/story/7266/7016031)
+
+### 食藥防疫新聞補充 
+中時 A9 綜合<br>
+- [苗栗原遠雄醫療園區火警30小時撲滅](https://www.chinatimes.com/newspapers/20230308000533-260107)
+
+中時 A9 綜合<br>
+- [追加劑打氣低迷 苗縣府送禮券](https://www.chinatimes.com/newspapers/20230308000543-260107)
+
+聯合 A8 生活<br>
+- [莊人祥：疫苗採購爭議 防疫最大挫敗](https://udn.com/news/story/7314/7014790)
+
+聯合 B1 全台焦點<br>
+- [學前幼童保護有漏洞 雙重查核機制補救](https://udn.com/news/story/7315/7015956)
+
 ## 2023-03-07 各報重點新聞一覽
 
 自由 A11 生活<br>
