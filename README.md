@@ -1,6 +1,28 @@
 # Newspaper clipping in March 2023
 2023-03-01~ 2023-03-12<br>
 中時 聯合 自由 剪報
+## 2023-03-07 各報重點新聞一覽
+
+自由 A11 生活<br>
+[教室口罩解封首日 內化成習慣 逾9成學生不脫罩](https://news.ltn.com.tw/news/life/paper/1570637)
+
+中時 A6 生活<br>
+[確診創314天新低 2情況才可住專責病房](https://www.chinatimes.com/newspapers/20230307000409-260114)
+
+聯合 A5 生活<br>
+[預立醫療決定 專家籲免費諮商](https://udn.com/news/story/7266/7013439)
+
+### 食藥防疫新聞補充 
+
+自由 A1 焦點新聞<br>
+- [葉黃素補過頭 女童膚色竟泛黃](https://news.ltn.com.tw/news/life/paper/1570609)
+
+自由 A11 生活<br>
+- [紅血球微囊運藥 精準攻擊癌細胞](https://news.ltn.com.tw/news/life/paper/1570642)
+
+聯合 B2 桃竹苗<br>
+- [八德福音 長榮醫院最快2025年完工](https://udn.com/news/story/7266/7013185)
+
 ## 2023-03-06 各報重點新聞一覽
 
 聯合 A6 生活<br>
