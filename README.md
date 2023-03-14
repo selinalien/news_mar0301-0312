@@ -9,7 +9,7 @@
 [新冠超額死亡率偏高 何美鄉質疑投藥太慢](https://www.chinatimes.com/newspapers/20230314000381-260114)
 
 ### 食藥防疫新聞補充 
-1of1
+
 聯合 A6 話題<br>
 - [專家：疫後資源整合 應維持監控機制](https://udn.com/news/story/120940/7029337)
 
