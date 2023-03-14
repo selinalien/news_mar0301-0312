@@ -27,52 +27,35 @@
 中時 A6 綜合<br>
 [清冠一號EUA延至明年6月](https://www.chinatimes.com/newspapers/20230313000314-260114)
 
-自由 A8 生活
-疫情趨緩 去年就醫增逾4500萬件／近3年首度上升 健保署預估今年看病人數仍會緩升
-https://news.ltn.com.tw/news/life/paper/1571691
+自由 A8 生活<br>
+[疫情趨緩 去年就醫增逾4500萬件／近3年首度上升 健保署預估今年看病人數仍會緩升](https://news.ltn.com.tw/news/life/paper/1571691)
 
-聯合 A6 生活
-4月底成立 防缺藥中心 將納中藥材
-https://udn.com/news/story/7266/7027083
+聯合 A6 生活<br>
+[4月底成立 防缺藥中心 將納中藥材](https://udn.com/news/story/7266/7027083)
 
+### 食藥防疫新聞補充 
 
-食藥防疫新聞補充 
-1of2
+中時 A9 桃竹苗<br>
+- [輔具維修宅急便 竹縣跑透透](https://www.chinatimes.com/newspapers/20230313000369-260107)
 
-中時 A9 桃竹苗
-輔具維修宅急便 竹縣跑透透
-https://www.chinatimes.com/newspapers/20230313000369-260107
+自由 A8 生活<br>
+- [藥局領藥上億件 憂心缺藥又擠大醫院](https://news.ltn.com.tw/news/life/paper/1571692)
 
+自由 A8 生活<br>
+- [20日起輕症免通報／防疫險效應 病例恐上升](https://news.ltn.com.tw/news/life/paper/1571694)
 
-自由 A8 生活
-藥局領藥上億件 憂心缺藥又擠大醫院
-https://news.ltn.com.tw/news/life/paper/1571692
+自由 A8 生活<br>
+- [中藥納缺藥通報 4月前完成建置／中藥材拚自產自銷 規劃與新南向國家合作契作](https://news.ltn.com.tw/news/life/paper/1571693)
 
-自由 A8 生活
-20日起輕症免通報／防疫險效應 病例恐上升
-https://news.ltn.com.tw/news/life/paper/1571694
+自由 A16 自由廣場<br>
+- [再生醫療製劑 應與國際規範接軌](https://talk.ltn.com.tw/article/paper/1571773)
 
-自由 A8 生活
-中藥納缺藥通報 4月前完成建置／中藥材拚自產自銷 規劃與新南向國家合作契作
-https://news.ltn.com.tw/news/life/paper/1571693
+聯合 A12 民意論壇<br>
+- [禽流感全球流行與因應(金傳春／台大流病與預醫所兼任教授)](https://udn.com/news/story/7339/7027035)
 
-自由 A16 自由廣場
-再生醫療製劑 應與國際規範接軌
-https://talk.ltn.com.tw/article/paper/1571773
-
-
-食藥防疫新聞補充 
-2of2
-聯合 A12 民意論壇
-禽流感全球流行與因應(金傳春／台大流病與預醫所兼任教授)
-https://udn.com/news/story/7339/7027035
-
-聯合 B2 桃竹苗
-48「名醫」駐診 苗栗人福音
-
+聯合 B2 桃竹苗<br>
+- [48「名醫」駐診 苗栗人福音](https://udn.com/news/story/7266/7026843)<br>
 苗栗縣每年超過20%的鄉親到外縣市就醫，縣長鍾東錦將延攬醫學中心等級的專科醫師駐診列為重要政見，縣府衛生局昨公布首波48名「名醫」，將到部立苗栗醫院等7家醫院、小兒神經外科等23個專科駐診。
-https://udn.com/news/story/7266/7026843
-
 
 ## 2023-03-08 各報重點新聞一覽
 中時 A7 綜合<br>
